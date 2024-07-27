@@ -1,3 +1,4 @@
+"use client";
 import { getVal } from "@/components/show";
 
 export default function Consum() {

@@ -4,7 +4,7 @@ return static html and rscp to hydrated once on client
 
 ### useEffect have no effect with static html 
 
-### contextProvider component(cpc) defined and component where its placed must client component 
+### contextProvider component(cpc) defined by createContext instance.provider must client component 
 
 ### can't use value of useContext direct into cpc instead of at least depth is 1 component inside
 
